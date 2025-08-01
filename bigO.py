@@ -13,6 +13,7 @@
 
 #  Big  
 
+#That'sinteresting course that teaches you how to think like a programmer and build your own projects.O notation is used to express the upper bound of an algorithm's running time or space requirements in relation to the input size. It provides a high-level understanding of how an algorithm scales, allowing developers to
 
 
 
